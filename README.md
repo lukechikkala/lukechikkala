@@ -1,9 +1,12 @@
 # Hi, I'm Luke :)
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"         alt="Linux" width="75" height="75"/>
+[![LC_TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukechikkala&hide=Objective-C,Makefile&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"           alt="Bash" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg"       alt="Lua" width="75" height="75"/>
+[![LC_Stats](https://github-readme-stats.vercel.app/api?username=lukechikkala&hide=stars,prs,issues,contribs&count_private=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-## Current Status
+# I use
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100" height="100"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"                alt="Bash" width="100" height="100"/> <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"            alt="Lua" width="100" height="100"/>
+
+# Current Status
 I'm currently working on writing a simpler [help guide for writing wireshark's Lua disector](https://github.com/lukechikkala/Wireshark-Lua-Plugins).<br>
 
 Other projects I'm invested in:
@@ -14,7 +17,5 @@ Other projects I'm invested in:
 * Better Progress Bars (regardless of language)
 * MIDI Tester
 
-## Socials
-![Twitter Follow](https://img.shields.io/twitter/follow/lukechikkala?style=social)
-
-![url](https://img.shields.io/badge/website-lukechikkala.com-blue)
+# Socials
+![url](https://img.shields.io/badge/website-lukechikkala.com-blue) ![twitter](https://img.shields.io/twitter/follow/lukechikkala?style=social)
