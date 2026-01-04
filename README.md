@@ -1,6 +1,5 @@
-# Hi, I'm Luke :)
-
-# I use
+I'm Luke.<br>
+I use:
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++"  width="100" height="100" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"           alt="Bash" width="100" height="100" />
