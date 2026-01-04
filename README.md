@@ -1,9 +1,4 @@
 # Hi, I'm Luke :)
-[![LC_TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukechikkala&hide=Objective-C,Makefile&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![LC_Stats](https://github-readme-stats.vercel.app/api?username=lukechikkala&hide=stars,prs,issues,contribs&count_private=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 # I use
 <p>
